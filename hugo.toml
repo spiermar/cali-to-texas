@@ -1,0 +1,57 @@
+baseURL = "/"
+theme = "hugo-whisper-theme"
+languageCode = "en-us"
+title = "Cali to Texas"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Docs"
+    url = "/docs/route/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/docs/route'
+  homepage_button_text = 'Check the Route'
+  homepage_intro = 'Motorcycle trip from San Francisco, CA to Dallas, TX.'
+  homepage_image = '/images/map.png'
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Motorcycle trip from San Francisco, CA to Dallas, TX."
+    meta_og_title = "Cali to Texas"
+    meta_og_type = "website"
+    meta_og_url = "http://martinspier.io/cali-to-tx/"
+    meta_og_image = "http://martinspier.io/cali-to-tx/images/map.png"
+    meta_og_description = "Motorcycle trip from San Francisco, CA to Dallas, TX."
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
+
+  [params.footer]
+    copyright_text = '<a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/spiermar/cali-to-texas",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://instagram.com/martin.spier",
+        "image": "images/social/instagram.svg"
+    }
+]
