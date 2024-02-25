@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://martinspier.io/cali-to-texas/"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
 title = "Cali to Texas"
@@ -28,10 +28,10 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs/route'
+  homepage_button_link = '/cali-to-texas/docs/route'
   homepage_button_text = 'Check the Route'
   homepage_intro = 'Motorcycle trip from San Francisco, CA to Dallas, TX.'
-  homepage_image = '/images/map.png'
+  homepage_image = '/cali-to-texas/images/map.png'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
@@ -40,13 +40,13 @@ summaryLength = 30
     meta_description = "Motorcycle trip from San Francisco, CA to Dallas, TX."
     meta_og_title = "Cali to Texas"
     meta_og_type = "website"
-    meta_og_url = "http://martinspier.io/cali-to-tx/"
-    meta_og_image = "http://martinspier.io/cali-to-tx/images/map.png"
+    meta_og_url = "http://martinspier.io/cali-to-texas/"
+    meta_og_image = "http://martinspier.io/cali-to-texas/images/map.png"
     meta_og_description = "Motorcycle trip from San Francisco, CA to Dallas, TX."
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/cali-to-texas/images/logo-mobile.svg"
+      standard  = "/cali-to-texas/images/logo.svg"
 
   [params.footer]
     copyright_text = '<a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
