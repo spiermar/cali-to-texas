@@ -23,3 +23,5 @@ weight: 2
 | 5/31 | [Fredericksburg](https://www.visitfredericksburgtx.com/) | Marathon, TX | Fredericksburg, TX | 393 | [Rever](https://a.rever.co/rides/9387535) |
 | 6/1 | | Fredericksburg, TX | Prosper, TX | 327 | [Rever](https://a.rever.co/rides/9387545) |
 | 6/2 | Buffer Day | | | | |
+
+We might try to leave one day early, to get an extra buffer day.
