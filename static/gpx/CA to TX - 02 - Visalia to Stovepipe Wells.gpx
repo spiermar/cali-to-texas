@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="REVER https://a.rever.co" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>01 - Visalia to Stovepipe Wells</name>
+    <name>02 - Visalia to Stovepipe Wells</name>
     <author>
       <name>Martin Spier</name>
     </author>
@@ -32,7 +32,7 @@
     <name>Stovepipe Wells, California, United States</name>
   </wpt>
   <trk>
-    <name>01 - Visalia to Stovepipe Wells</name>
+    <name>02 - Visalia to Stovepipe Wells</name>
     <link href="https://a.rever.co/embed/"/>
     <type>Ride</type>
     <trkseg>
